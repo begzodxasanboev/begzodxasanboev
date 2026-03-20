@@ -6,6 +6,7 @@
 - 🎯 My goal is to become a professional Software Developer
 - 📚 Studying at **Najot Ta'lim**
 - 📫 Contact me: xasanboyevbeegie@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/begzodbekxasanboyev
 
 ## 🛠️ Languages I'm Learning
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
