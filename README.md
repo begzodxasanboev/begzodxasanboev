@@ -1,7 +1,7 @@
 # Hi, I'm Begzod Xasanboyev 👋
 
 ## About Me
-- 🌍 I'm from Tashkent, Uzbekistan
+- 🌍 I'm from Namangan,Uzbekistan
 - 💻 I'm currently learning **C** and **Python**
 - 🎯 My goal is to become a professional Software Developer
 - 📚 Studying at **Najot Ta'lim**
