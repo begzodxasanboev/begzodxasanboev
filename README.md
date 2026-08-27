@@ -56,12 +56,12 @@ A small project focused on an online banking concept.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=begzodxasanboev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begzodxasanboev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=begzodxasanboev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Begzod's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begzodxasanboev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=begzodxasanboev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=begzodxasanboev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -97,6 +97,12 @@ I believe the best way to learn technology is by working with it hands-on.
 <p align="center">
   <a href="https://github.com/begzodxasanboev">
     <img src="https://img.shields.io/badge/GitHub-begzodxasanboev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/begzodbekxasanboyev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Begzod%20Xasanboyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/beegieX">
+    <img src="https://img.shields.io/badge/X-@beegieX-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
