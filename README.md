@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/begzodbekxasanboyev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/beegieX"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <img src="https://komarev.com/ghpvc/?username=abdugafforov-bobur&style=for-the-badge&color=FF3C3C&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
