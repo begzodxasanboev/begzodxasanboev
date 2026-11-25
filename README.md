@@ -1,9 +1,10 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=FF3C3C&center=true&vCenter=true&width=800&height=55&lines=Begzod+Xasanboyev;Penetration+Tester+%7C+Security+Researcher" alt="Begzod Xasanboyev — Penetration Tester" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=8C7AFF&center=true&vCenter=true&width=820&height=55&lines=Begzod+Xasanboyev;Penetration+Tester+%7C+Security+Researcher;Founder+of+RootWay" alt="Begzod Xasanboyev — Penetration Tester, Founder of RootWay" />
 
 <p>
+  <a href="https://rootway.uz"><img src="https://img.shields.io/badge/RootWay-1B1258?style=flat-square&logoColor=C9C0FF" alt="RootWay"></a>
   <a href="https://www.linkedin.com/in/begzodbekxasanboyev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/beegieX"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
@@ -14,11 +15,59 @@
 
 ## About
 
-I'm Begzod, building my skills in **cybersecurity and penetration testing**. I'm interested in how applications and networks fail, how vulnerabilities can be identified, and how systems can be made more secure.
+I'm Begzod — a cybersecurity enthusiast focused on **penetration testing and web security**, and the founder of **[RootWay](https://rootway.uz)**, a hands-on cybersecurity learning platform for Uzbek speakers.
 
-- **Interests:** web application security, network security, and ethical hacking
-- **Approach:** hands-on labs, careful documentation, and continuous learning
+- **Focus:** web application security, network security, and offensive security fundamentals
+- **Approach:** learn by doing — labs, CTFs, careful documentation, and building real tools
 - **Principle:** test only systems I own or have explicit permission to assess
+
+---
+
+## Featured Project — RootWay
+
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+  <a href="https://rootway.uz"><img src="https://rootway.uz/rootway-logo.png" width="96" alt="RootWay logo"></a>
+</td>
+<td valign="top">
+
+**[RootWay](https://rootway.uz)** — *“the path to root”*. A cybersecurity training platform where learners go from the basics to real attack chains, in **Uzbek, English and Russian**.
+
+- **Lessons** — structured modules (Linux, networking, Nmap, web, crypto …) with checkpoint questions after every lesson
+- **CTF Arena** — Web, Crypto, Forensics, Reverse, Pwn, OSINT and Misc challenges with flag submission, first-blood and scoring
+- **Machines** — step-by-step attack chains: recon → foothold → user flag → privilege escalation → root flag
+- **Progression** — XP, 10 rank badges (Genesis → Root), live leaderboard, activity heatmap and shareable certificates
+- **Community** — creators can submit their own challenges and machines for review
+
+</td>
+</tr>
+</table>
+
+**How it's built**
+
+![Python](https://img.shields.io/badge/Python_(stdlib)-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- Backend written with the **Python standard library only** — no web framework, minimal attack surface
+- Frontend is a **dependency-free single-page app** (no build step) with dark / light themes
+- Continuous deployment to production on every push via **GitHub Actions**
+
+**Security by design**
+
+- Salted **PBKDF2** password hashing, hashed session tokens and hashed flags
+- **TOTP two-factor authentication** for administrators, owner-protected admin roles and an **admin audit log**
+- Strict **Content-Security-Policy**, rate limiting on login / registration / flag submission, automatic scanner blocking
+- OAuth sign-in (Google, GitHub) with state verification, **PKCE** for Google and no silent account linking by email
+
+<p>
+  <a href="https://rootway.uz"><img src="https://img.shields.io/badge/Visit-rootway.uz-1B1258?style=for-the-badge&labelColor=0B0A17" alt="Visit rootway.uz"></a>
+</p>
+
+---
 
 ## Technical Skills
 
@@ -31,24 +80,24 @@ I'm Begzod, building my skills in **cybersecurity and penetration testing**. I'm
 
 **Tools & Environment**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Areas I'm Exploring
 
-- **Web security** — common vulnerabilities, secure design, and the OWASP Top 10
-- **Network security** — protocols, traffic analysis, scanning, and enumeration
-- **Linux & scripting** — command-line workflows and automation
-- **Security research** — understanding vulnerabilities and documenting findings
+- **Web security** — OWASP Top 10, authentication flaws, access control and secure design
+- **Network security** — protocols, traffic analysis, scanning and enumeration
+- **Privilege escalation** — Linux misconfigurations and post-exploitation fundamentals
+- **Security engineering** — building platforms that are secure by default
 
-## Current Approach
+## How I Work
 
-`Learn → Practice → Document → Improve`
+`Learn → Practice → Build → Document → Improve`
 
-I use practical exercises and projects to strengthen my fundamentals, track what I learn, and gradually take on more challenging security topics.
+I turn what I learn into practical labs and challenges — and share them through RootWay so others can learn the same way.
 
 ---
 
