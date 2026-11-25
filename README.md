@@ -65,6 +65,7 @@ I'm Begzod — a cybersecurity enthusiast focused on **penetration testing and w
 
 <p>
   <a href="https://rootway.uz"><img src="https://img.shields.io/badge/Visit-rootway.uz-1B1258?style=for-the-badge&labelColor=0B0A17" alt="Visit rootway.uz"></a>
+  <a href="https://t.me/rootway_uz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="RootWay Telegram channel"></a>
 </p>
 
 ---
